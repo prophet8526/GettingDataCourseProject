@@ -7,7 +7,7 @@ This script takes the original full [10299 x 561] data frame and retains only th
 ##Codes
 Subject is an integer from 1-30 describing which subject performed the activity.  
 Activity is a character describing one of six activities: Laying, Sitting, Standing, Walking, Walking_Upstairs, Walking_Downstairs.  
-The rest of the variables are coded in the following way:  
+The rest of the variables are numerics coded in the following way:  
 &nbsp;&nbsp;&nbsp;"Time" indicates the variable is in the time domain.  
 &nbsp;&nbsp;&nbsp;"Freq" indicates the variable is in the frequency domain.  
 &nbsp;&nbsp;&nbsp;"Accelerometer" indicates the data were obtained from the accelerometer (measured in units of g's).  
